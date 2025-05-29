@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.vc.db
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.log
+*.tlog
+*.lastbuildstate
+*.exe
+*.dll
+*.lib
+*.exp
+*.res
+*.rpt
+
+# Generated files
+*.manifest
+*.cache
+*.sdf
+*.opensdf
+*.iobj
+*.ipdb
+*.browse.VC.db
+
+# Others
+*.tmp
+*.bak
+*.~*
+*.swp
+Thumbs.db
+Desktop.ini
+
+# CMake (optional, jika digunakan)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt / MFC temporary files (if applicable)
+*.qmake.stash
+*.pro.user

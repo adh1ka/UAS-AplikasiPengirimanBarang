@@ -1,0 +1,3 @@
+ABCD123456|Jakarta|Surabaya|2025-05-25|Dalam Perjalanan|Gudang Surabaya
+EFGH789012|Bandung|Yogyakarta|2025-05-24|Terkirim|Yogyakarta
+IJKL345678|Surabaya|Jakarta|2025-05-26|Sortir Gudang|Gudang Jakarta

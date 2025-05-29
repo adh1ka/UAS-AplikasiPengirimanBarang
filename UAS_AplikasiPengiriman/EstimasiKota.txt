@@ -1,0 +1,4 @@
+Jakarta,Bandung,1
+Jakarta,Surabaya,3
+Bandung,Surabaya,2
+Yogyakarta,Malang,1

@@ -1,0 +1,6 @@
+Kode: ABCD123456
+Asal: Jakarta
+Tujuan: Surabaya
+Tanggal: 2025-05-25
+Status: Dalam Perjalanan
+Posisi: Gudang Surabaya
