@@ -1,59 +1,53 @@
-# Visual Studio
-.vs/
-*.vc.db
-*.VC.db
-*.VC.opendb
+# =========================
+# Visual Studio Ignore List
+# =========================
+
+# User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Build output
+# Build results
+[Bb]uild/
+x64/
 Debug/
 Release/
-x64/
-x86/
-ipch/
-*.obj
-*.pch
-*.idb
-*.pdb
-*.ilk
-*.aps
-*.ncb
 *.log
 *.tlog
-*.lastbuildstate
+
+# Compiled binaries
 *.exe
 *.dll
 *.lib
-*.exp
-*.res
-*.rpt
+*.obj
+*.pdb
+*.idb
+*.ilk
 
-# Generated files
-*.manifest
-*.cache
-*.sdf
-*.opensdf
+# Intermediate and cache files
+*.aps
+*.res
+*.pch
 *.iobj
 *.ipdb
-*.browse.VC.db
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.VC.db
+*.VC.opendb
 
-# Others
-*.tmp
-*.bak
-*.~*
-*.swp
+# Precompiled header
+*.gch
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# OS-generated files
 Thumbs.db
 Desktop.ini
+*.swp
+*.~*
 
-# CMake (optional, jika digunakan)
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
-# Qt / MFC temporary files (if applicable)
-*.qmake.stash
-*.pro.user
